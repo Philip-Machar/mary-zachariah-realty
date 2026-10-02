@@ -54,7 +54,7 @@ export default function PostPage() {
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Kevlin & Company",
+      "name": "Mary Zacharia Realty",
       "logo": {
         "@type": "ImageObject",
         "url": "/logo.jpg"
@@ -66,7 +66,7 @@ export default function PostPage() {
   return (
     <div className="min-h-screen bg-background-50">
       <SEO 
-        title={`${post.title} | Kevlin & Company Insights`}
+        title={`${post.title} | Mary Zacharia Realty Insights`}
         description={post.excerpt}
         image={post.image}
         type="article"

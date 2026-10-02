@@ -37,33 +37,33 @@
     --foreground-900: 0.20 0.09 250;
     --foreground-950: 0.15 0.02 250;
 
-    /* Primary - Deep Forest Green (From Kevlin Logo Background) */
-    --primary-50: 0.96 0.01 150;
-    --primary-100: 0.92 0.02 150;
-    --primary-200: 0.85 0.04 150;
-    --primary-300: 0.75 0.06 150;
-    --primary-400: 0.60 0.08 150;
-    --primary-500: 0.45 0.10 150; 
-    --primary-600: 0.38 0.08 150;
-    --primary-700: 0.30 0.06 150;
-    --primary-800: 0.22 0.05 150;
-    --primary-900: 0.15 0.03 150;
-    --primary-950: 0.10 0.02 150; 
-    --primary-foreground: 0.99 0.005 85;
+    /* Primary - Rich, Crisp Green (WhatsApp-inspired but professional) */
+    --primary-50: 0.96 0.03 145;
+    --primary-100: 0.92 0.05 145;
+    --primary-200: 0.85 0.08 145;
+    --primary-300: 0.75 0.11 145;
+    --primary-400: 0.65 0.14 145;
+    --primary-500: 0.55 0.16 145; /* Vibrant, balanced green */
+    --primary-600: 0.48 0.14 145;
+    --primary-700: 0.40 0.12 145;
+    --primary-800: 0.32 0.10 145;
+    --primary-900: 0.24 0.08 145;
+    --primary-950: 0.18 0.06 145;
+    --primary-foreground: 0.99 0.005 85; /* White text on green */
 
-    /* Accent - Kevlin Metallic Gold */
-    --accent-50: 0.98 0.01 90;
-    --accent-100: 0.95 0.03 90;
-    --accent-200: 0.90 0.06 90;
-    --accent-300: 0.85 0.10 90;
-    --accent-400: 0.80 0.13 90;
-    --accent-500: 0.74 0.15 85; 
-    --accent-600: 0.65 0.13 85;
-    --accent-700: 0.55 0.11 85;
-    --accent-800: 0.45 0.09 85;
-    --accent-900: 0.35 0.07 85;
-    --accent-950: 0.25 0.05 85;
-    --accent-foreground: 0.15 0.03 150;
+    /* Accent - M Zacharia Silver/Grey */
+    --accent-50: 0.98 0.005 135;
+    --accent-100: 0.95 0.01 135;
+    --accent-200: 0.90 0.01 135;
+    --accent-300: 0.80 0.015 135;
+    --accent-400: 0.70 0.02 135;
+    --accent-500: 0.60 0.02 135; /* Elegant Silver */
+    --accent-600: 0.50 0.02 135;
+    --accent-700: 0.40 0.015 135;
+    --accent-800: 0.30 0.01 135;
+    --accent-900: 0.20 0.01 135;
+    --accent-950: 0.15 0.005 135;
+    --accent-foreground: 0.15 0.02 250; /* Dark text on silver bg */
 
     /* Secondary - Neutral gray */
     --secondary-50: 0.95 0.01 250;
@@ -120,33 +120,33 @@
     --foreground-900: 0.95 0.01 250;
     --foreground-950: 0.98 0 0;
 
-    /* Primary - Dark Mode Green Adjustments */
-    --primary-500: 0.50 0.10 150;
-    --primary-400: 0.60 0.08 150;
-    --primary-600: 0.40 0.08 150;
-    --primary-300: 0.70 0.06 150;
-    --primary-200: 0.80 0.04 150;
-    --primary-100: 0.90 0.02 150;
-    --primary-50: 0.95 0.01 150;
-    --primary-700: 0.30 0.06 150;
-    --primary-800: 0.22 0.05 150;
-    --primary-900: 0.15 0.03 150;
-    --primary-950: 0.10 0.02 150;
+    /* Primary - Dark Mode Crisp Green Adjustments */
+    --primary-500: 0.60 0.15 145;
+    --primary-400: 0.70 0.14 145;
+    --primary-600: 0.50 0.14 145;
+    --primary-300: 0.80 0.12 145;
+    --primary-200: 0.88 0.08 145;
+    --primary-100: 0.94 0.05 145;
+    --primary-50: 0.97 0.03 145;
+    --primary-700: 0.40 0.12 145;
+    --primary-800: 0.32 0.10 145;
+    --primary-900: 0.24 0.08 145;
+    --primary-950: 0.18 0.06 145;
     --primary-foreground: 0.99 0.005 85;
 
-    /* Accent - Dark Mode Gold Adjustments */
-    --accent-500: 0.74 0.15 85;
-    --accent-400: 0.80 0.13 90;
-    --accent-600: 0.65 0.13 85;
-    --accent-300: 0.85 0.10 90;
-    --accent-200: 0.90 0.06 90;
-    --accent-100: 0.95 0.03 90;
-    --accent-50: 0.98 0.01 90;
-    --accent-700: 0.55 0.11 85;
-    --accent-800: 0.45 0.09 85;
-    --accent-900: 0.35 0.07 85;
-    --accent-950: 0.25 0.05 85;
-    --accent-foreground: 0.15 0.03 150;
+    /* Accent - Dark Mode Silver Adjustments */
+    --accent-500: 0.65 0.02 135;
+    --accent-400: 0.70 0.02 135;
+    --accent-600: 0.55 0.02 135;
+    --accent-300: 0.75 0.015 135;
+    --accent-200: 0.85 0.01 135;
+    --accent-100: 0.92 0.01 135;
+    --accent-50: 0.96 0.005 135;
+    --accent-700: 0.45 0.015 135;
+    --accent-800: 0.35 0.01 135;
+    --accent-900: 0.25 0.01 135;
+    --accent-950: 0.15 0.005 135;
+    --accent-foreground: 0.15 0.02 250;
 
     --secondary-500: 0.55 0.05 250;
     --secondary-400: 0.65 0.04 250;
