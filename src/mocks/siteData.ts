@@ -50,16 +50,16 @@ export interface Office {
 export const teamMembers: TeamMember[] = [
   {
     id: 'tm1',
-    name: 'Mary ZachariaMwangi',
+    name: 'Mary',
     role: 'Founder & CEO',
-    image: 'https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businessman%20in%20his%2040s%20wearing%20a%20navy%20blue%20suit%20with%20a%20subtle%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-peter-01&orientation=squarish',
+    image: 'https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businesswoman%20in%20her%2030s%20wearing%20an%20elegant%20emerald%20green%20blazer%20with%20a%20confident%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-faith-01&orientation=squarish',
     bio: 'With over 15 years in Kenyan real estate, Mary Zachariafounded Mary Zacharia Realty with a vision to transform property transactions through transparency and client-first service.',
   },
   {
     id: 'tm2',
     name: 'Faith Wambui',
     role: 'Head of Sales',
-    image: 'https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businesswoman%20in%20her%2030s%20wearing%20an%20elegant%20emerald%20green%20blazer%20with%20a%20confident%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-faith-01&orientation=squarish',
+    image: 'https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businessman%20in%20his%2040s%20wearing%20a%20navy%20blue%20suit%20with%20a%20subtle%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-peter-01&orientation=squarish',
     bio: 'Faith leads our sales team with exceptional market knowledge and a proven track record of matching clients with their perfect properties across Nairobi and the coast.',
   },
   {
@@ -266,7 +266,7 @@ export const offices: Office[] = [
     city: 'Nairobi',
     address: 'Riverside Drive',
     phone: '+254 719 339 013',
-    email: 'info@Kevlinhomes.com',
+    email: 'info@maryzachariarealty.com',
     isHQ: true,
   },
 ];

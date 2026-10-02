@@ -223,7 +223,7 @@ export default function AboutPage() {
                 Our Motivation
               </span>
               <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-8">
-                The Vision <span className="italic font-light text-primary-400">Behind Kevlin</span>
+                The Vision <span className="italic font-light text-primary-400">Behind Mary Zacharia Realty</span>
               </h2>
               
               <div className="relative">
@@ -242,7 +242,7 @@ export default function AboutPage() {
                   <span className="text-white font-heading font-bold text-xl">PN</span>
                 </div>
                 <div>
-                  <p className="text-white font-bold tracking-wide">Mary ZachariaMwangi</p>
+                  <p className="text-white font-bold tracking-wide">Mary Zacharia</p>
                   <p className="text-primary-400 text-xs font-bold uppercase tracking-widest mt-1">Founder & Managing Director</p>
                 </div>
               </div>
@@ -252,7 +252,7 @@ export default function AboutPage() {
               <div className="relative aspect-[3/4] md:aspect-square rounded-[3rem] overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.3)] group">
                 {/* AI Generated image specifically requesting a Black African businessman */}
                 <img
-                  src="https://cdn.guardian.ng/wp-content/uploads/2015/04/1727877696131.jpg"
+                  src="https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businesswoman%20in%20her%2030s%20wearing%20an%20elegant%20emerald%20green%20blazer%20with%20a%20confident%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-faith-01&orientation=squarish"
                   alt="Mary Zacharia Realty Founder - Peter Njoroge"
                   className="w-full h-full object-cover grayscale-[20%] contrast-125 group-hover:scale-105 transition-transform duration-1000"
                 />
